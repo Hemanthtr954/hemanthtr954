@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Hemanth Tirumalarajukupam
 
-<!--
-**Hemanthtr954/hemanthtr954** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Engineer | Data Enthusiast | Full-Stack Developer
+🎯 Building scalable backend systems, intuitive frontends, and data-driven solutions.
 
-Here are some ideas to get you started:
+💡 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Full-stack experience: Java, Python, Node.js, React, FastAPI, Spring Boot
+
+📊 Data Engineering & Analytics: SQL, Snowflake, Spark, Airflow, AWS
+
+☁️ Cloud & DevOps: AWS, Docker, Kubernetes, CI/CD
+
+💼 Currently: Software Developer @ Bright Mind Enrichment (non-profit)
+
+🎓 M.S. Information Technology & Management (UNCG, May 2025)

@@ -1,16 +1,1 @@
-Hi, I'm Hemanth Tirumalarajukupam
-
-🚀 Software Engineer | Data Enthusiast | Full-Stack Developer
-🎯 Building scalable backend systems, intuitive frontends, and data-driven solutions.
-
-💡 About Me
-
-🌐 Full-stack experience: Java, Python, Node.js, React, FastAPI, Spring Boot
-
-📊 Data Engineering & Analytics: SQL, Snowflake, Spark, Airflow, AWS
-
-☁️ Cloud & DevOps: AWS, Docker, Kubernetes, CI/CD
-
-💼 Currently: Software Developer @ Bright Mind Enrichment (non-profit)
-
-🎓 M.S. Information Technology & Management (UNCG, May 2025)
+I am a Senior AI/ML Engineer with 6+ years of experience building scalable backend systems and production-grade Generative AI platforms in enterprise environments. I specialize in designing LLM-powered applications, cloud-native microservices, and intelligent data systems that drive real-time decision-making and automation. In my current role, I design and develop enterprise-scale Generative AI and LLM systems using GPT and Azure OpenAI, focusing on reliability, latency, and cost optimization. I’ve built multi-provider LLM architectures with model routing, fallback strategies, and safety guardrails, enabling scalable and secure AI applications. Previously, I engineered high-performance data pipelines and backend systems using Python, SQL, AWS Glue, and Spark—reducing data latency by 35% and improving ingestion throughput by 45%. I’ve also developed RESTful and GraphQL APIs using Spring Boot and FastAPI to power analytics and enterprise applications. I specialize in: • Generative AI & LLM systems (prompt engineering, model orchestration, evaluation, safety) • Backend engineering with Python, Java, FastAPI, and Spring Boot • Distributed data systems with Spark, Airflow, and real-time processing • Cloud-native architectures on AWS and GCP • Microservices, event-driven systems, and API design • CI/CD, Docker, Kubernetes, and production reliability Key achievements: • Reduced LLM operational costs by 30% through optimization strategies • Improved system reliability and reduced MTTR by 40% • Increased data pipeline performance and query efficiency by 30%+ I bring a strong combination of AI system design, backend engineering, and cloud architecture, with a focus on building scalable, production-ready intelligent systems. I hold a Master’s degree in IT from the University of North Carolina at Greensboro and am an AWS Certified Solutions Architect. I’m currently open to opportunities in: AI/ML Engineering | Generative AI | LLM Systems | Backend & Platform Engineering 

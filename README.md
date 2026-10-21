@@ -21,7 +21,7 @@ I design LLM-powered applications that hold up in production: multi-provider rou
 | **[ml-platform](https://github.com/Hemanthtr954/ml-platform)** | Full ML lifecycle: experiment tracking, LoRA/QLoRA fine-tuning, feature store with point-in-time joins, model registry, drift detection (PSI / KL / KS), LLM safety evals | Python · FastAPI · OpenAI |
 | **[loop-pulse](https://github.com/Hemanthtr954/loop-pulse)** | Engineering insights from git history: truck factor and knowledge risk, contributors, activity trends, plus an LLM narrative whose every number is checked against the data | TypeScript · Fastify · SQLite · React · Docker |
 
-All projects are tracked on the **[Portfolio project board](https://github.com/users/Hemanthtr954/projects)**.
+All projects are tracked on the **[AI/ML Engineering Portfolio](https://github.com/users/Hemanthtr954/projects/3)** project board.
 
 ---
 
